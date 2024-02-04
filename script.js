@@ -1,6 +1,6 @@
 // script.js
 
-function validateName() {
+function validateName1() {
     var nameInput = document.getElementById('name');
 
     // Trim the input value to remove leading and trailing spaces
